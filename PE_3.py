@@ -85,5 +85,5 @@ def largest_prime_factor(n: int) -> int:
 if __name__ == "__main__":
     print("get_factors(25): ", get_factors(25))
     print("is_prime(17): ", is_prime(17))
-    print("largest_prime_factor(90005673681): ", largest_prime_factor(90005673681)) #should return 1109
+    print("largest_prime_factor(90005673681): ", largest_prime_factor(900056736818)) #should return 1109
     #600851475143
