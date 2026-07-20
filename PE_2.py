@@ -1,5 +1,8 @@
+"""
+By considering the terms in the Fibonacci sequence whose values do not exceed four million, 
+find the sum of the even-valued terms. (In this case the sequence only starts with a single 1)
+"""
 import math, time
-
 
 def sum_even_fib_terms(limit: int) -> int:
     """

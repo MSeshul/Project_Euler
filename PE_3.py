@@ -1,3 +1,6 @@
+"""
+What is the largest prime factor of the number 600851475143
+"""
 import math
 
 def get_factors(n: int) -> list[int]:

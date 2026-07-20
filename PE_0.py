@@ -1,3 +1,6 @@
+"""
+Among the first 510 thousand square numbers, what is the sum of all the odd squares?
+"""
 import math
 
 def PE_0():

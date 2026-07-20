@@ -1,3 +1,6 @@
+"""
+What is the 10001 st prime number?
+"""
 import math
 def check_prime(number):
     for i in range(2, math.ceil(number**0.5)+1):

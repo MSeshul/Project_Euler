@@ -1,3 +1,6 @@
+"""
+What is the smallest positive number that is evenly divisible by all of the numbers from 0 to 20?
+"""
 import math
 n = 20
 factor_list = []

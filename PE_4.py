@@ -1,3 +1,6 @@
+"""
+Find the largest palindrome made from the product of two 3-digit numbers.
+"""
 palindrome_list = []
 def products():
     for j in range(999, 800, -1):
