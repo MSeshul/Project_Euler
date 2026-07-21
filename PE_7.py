@@ -8,7 +8,7 @@ def check_prime(number):
             return False
     return True
 
-nth_prime = 10001
+nth_prime = 100001
 prime_list = [2]
 
 def primes():
