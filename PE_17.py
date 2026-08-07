@@ -1,3 +1,5 @@
+'''If all the numbers from 1 to 1000 (one thousand) inclusive were 
+written out in words, how many letters would be used?'''
 ones_list = [3, 3, 5, 4, 4, 3, 5, 5, 4]
 tens_list = [6, 6, 5, 5, 5, 7, 6, 6]
 teens = [3, 6, 6, 8, 8, 7, 7, 9, 8, 8]
@@ -19,8 +21,4 @@ total = total + (891 * 3)
 total = total + thousand
 
 print(total)
-
-
-
-
-        
+   
